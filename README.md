@@ -1,11 +1,11 @@
 <h1 align="center">Saudações, meu nome é Matheus Marinho!</h1>
 <h3 align="center">Um amante de tecnologia!</h3>
 
-- 🔭 Atualmente estou cursando Ciências da Computação na UNIP (Terceiro semestre) [Máquina Enigma](https://github.com/purplecod/APS-Criptografia)
+- 🔭 Atualmente estou cursando Ciências da Computação na UNIP (Terceiro semestre). Um trabalho de faculdade: [Máquina Enigma](https://github.com/purplecod/APS-Criptografia)
 
 - 🌱 Estou aprendendo Banco de Dados **UNIP**
 
-- 💼 Estou tentando buscar um estágio como FrontEnd [Cálculo Calórico](https://github.com/purplecod/calculo-de-calorias)
+- 💼 Estou tentando buscar um estágio como FrontEnd. Exemplo de projeto: [Cálculo Calórico](https://github.com/purplecod/calculo-de-calorias)
 
 - 👨‍💻 Portifólio [https://github.com/purplecod](https://github.com/purplecod)
 
