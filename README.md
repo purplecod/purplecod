@@ -1,5 +1,5 @@
 <h1 align="center">Saudações, meu nome é Matheus Marinho!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Um amante de tecnologia!</h3>
 
 - 🔭 Atualmente estou cursando Ciências da Computação na UNIP (Terceiro semestre) [Máquina Enigma](https://github.com/purplecod/APS-Criptografia)
 
