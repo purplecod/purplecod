@@ -3,13 +3,13 @@
 
 - 🔭 Atualmente estou cursando Ciências da Computação na UNIP (Terceiro semestre). Um trabalho de faculdade: [Máquina Enigma](https://github.com/purplecod/APS-Criptografia)
 
-- 🌱 Estou aprendendo Banco de Dados **UNIP**
+- 🌱 Estou aprendendo Banco de Dados 
 
 - 💼 Estou tentando buscar um estágio como FrontEnd. Exemplo de projeto: [Cálculo Calórico](https://github.com/purplecod/calculo-de-calorias)
 
 - 👨‍💻 Portifólio [https://github.com/purplecod](https://github.com/purplecod)
 
-- 📫 Contatos **E-MAIL: matheusanubis20@gmail.com - NÚMERO: 11 94551-1587 - LINKEDIN: matheus-marinho-522371219**
+- 📫 Contatos **E-MAIL: matheusmarinhodasilva@gmail.com - NÚMERO: 11 94551-1587 - LINKEDIN: matheus-marinho-522371219**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
